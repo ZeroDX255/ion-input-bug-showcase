@@ -1,0 +1,7 @@
+{
+  "name": "input-bug-showcase",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
